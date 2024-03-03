@@ -1,4 +1,4 @@
-# Welcome toMediteranski San Clone Website
+# Welcome to Mediteranski San Clone Website
 
 ## About
 
