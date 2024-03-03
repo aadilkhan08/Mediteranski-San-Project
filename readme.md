@@ -6,7 +6,10 @@ Welcome to Mediteranski San Clone Website! Here, you'll find a blend of creativi
 
 ## Developer
 
-![1709501613459](image/readme/1709501613459.png)
+<img src="image/readme/1709501613459.png" width="230" height="350"  style="object-fit: cover; object-position:bottom;">
+
+
+
 
 ## Features
 
