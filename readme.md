@@ -4,6 +4,10 @@
 
 Welcome to Mediteranski San Clone Website! Here, you'll find a blend of creativity and functionality crafted with passion and dedication.
 
+## Developer
+
+![1709501613459](image/readme/1709501613459.png)
+
 ## Features
 
 - **Sleek Design:** Enjoy a modern and clean interface.
